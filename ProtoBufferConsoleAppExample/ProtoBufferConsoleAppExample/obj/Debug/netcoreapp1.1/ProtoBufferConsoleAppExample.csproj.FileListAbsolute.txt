@@ -1,0 +1,18 @@
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.deps.json
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.runtimeconfig.json
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.runtimeconfig.dev.json
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.dll
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.pdb
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.AssemblyInfo.cs
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.dll
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.pdb
+c:\users\diego leonardo\documents\visual studio 2017\Projects\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.csprojResolveAssemblyReference.cache
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.deps.json
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.runtimeconfig.json
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.runtimeconfig.dev.json
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.dll
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\bin\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.pdb
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.csprojResolveAssemblyReference.cache
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.AssemblyInfo.cs
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.dll
+C:\Users\Diego Leonardo\Documents\Github\Projetos\ProtoBufferConsoleAppExample\ProtoBufferConsoleAppExample\obj\Debug\netcoreapp1.1\ProtoBufferConsoleAppExample.pdb
