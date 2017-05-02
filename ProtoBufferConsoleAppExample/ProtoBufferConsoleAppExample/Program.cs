@@ -1,10 +1,8 @@
 ﻿using System;
-using RabbitMQ.Client;
-using RabbitMQ.Client.Events;
-using ProtoBuf;
 using System.IO;
 using System.Collections.Generic;
 using System.Diagnostics;
+using ProtoBuf;
 
 namespace ProtoBufferConsoleAppExample
 {
@@ -28,17 +26,17 @@ namespace ProtoBufferConsoleAppExample
                 Stopwatch cronometro = new Stopwatch();
                 MemoryStream msTestString = new MemoryStream();
 
-                cronometro.Start();
-                Serializer.Serialize(msTestString, person);
-                cronometro.Stop();
-                Console.WriteLine($"Time to Serialize with ProtoBuffer object: {cronometro.ElapsedMilliseconds} ms.");
-                cronometro.Reset();
-
                 string stringBase64 = Convert.ToBase64String(msTestString.ToArray());
                 byte[] byteAfter64 = Convert.FromBase64String(stringBase64);
 
                 MemoryStream afterStream = new MemoryStream(byteAfter64);
                 rabbitObject.Publish(stringBase64);
+
+                cronometro.Start();
+                Serializer.Serialize(msTestString, person);
+                cronometro.Stop();
+                Console.WriteLine($"Time to Serialize with ProtoBuffer object: {cronometro.ElapsedMilliseconds} ms.");
+                cronometro.Reset();
                 
                 cronometro.Start();
                 Person person2 = Serializer.Deserialize<Person>(afterStream); // Just to check correct serialization.
